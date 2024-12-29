@@ -1,0 +1,16 @@
+inline 
+internal 
+external 
+
+tag 
+property: value;
+
+
+selectors
+tagname, id, class 
+kompleks selectors
+pseudo-class selector
+pseudo-element selector
+
+
+Specificity

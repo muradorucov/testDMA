@@ -1,0 +1,49 @@
+/* #desc {
+    color: blue;
+}
+
+
+
+.parag {
+    color: #fff;
+}
+
+
+p {
+    color: red;
+    background-color: yellow;
+} */
+
+/* p.parag.item.item2#desc {
+    color: blue !important;
+}
+
+
+#desc {
+    color: red !important;
+} */
+
+
+/* id> class> tag */
+
+
+/* .parag {
+    background: linear-gradient(1800deg, rgba(130, 249, 0, 1) 2%, rgba(8, 15, 0, 1) 45%, rgba(0, 0, 0, 1) 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+
+} */
+
+
+/* p#desc.parag {
+    color: black;
+}
+
+#desc {
+    color: red;
+} */
+
+
+
+/* id>class>tagname */
+
